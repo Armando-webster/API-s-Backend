@@ -1,6 +1,6 @@
-# fase1_armando-wa
+# Modelo solid de uma api em Nest.js
 
-## Description
+## Api sobre gestao de servisos de uma companhia de telefonia
 
 
 
